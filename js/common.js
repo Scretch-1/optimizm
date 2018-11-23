@@ -64,6 +64,10 @@ $(function() {
 		// interval: 5500
 		interval: false
 	})
+	$('#carousel2').carousel({
+		// interval: 5500
+		interval: false
+	})
 
 	//Chrome Smooth Scroll
 	try {
